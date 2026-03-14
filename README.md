@@ -36,7 +36,7 @@
   <a href="mailto:adelmostafamohamed12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.upwork.com" target="_blank">
+  <a href="https://www.upwork.com/freelancers/adelm18" target="_blank">
     <img src="https://img.shields.io/badge/-Upwork%20Top%20Rated-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
@@ -96,7 +96,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | **Colada** 🇸🇦 | Restaurant & cafe exclusive offers platform — 1,000+ active deals & cashback rewards across Riyadh | Flutter, REST APIs, Deep Links |
-| **MemoryChat** | Offline-first chat & note-taking app with real-time bidirectional sync | Flutter, Drift ORM, PowerSync, Supabase |
+| **MemoryChat** 🇪🇬 | Offline-first chat & note-taking app with real-time bidirectional sync | Flutter, Drift ORM, PowerSync, Supabase |
 | **Priceless Medical** 🇦🇪 | UAE's first smart healthcare savings platform — 30+ partner clinics | Flutter, Stripe, Deep Links |
 | **Bidfood Home** 🇦🇪 | Online food & beverage delivery platform — production B2C app | Flutter, CRM Integration |
 | **Tansieq** 🇸🇦 | Drone/visual detection system for Saudi Ministry of Hajj infrastructure reporting | Flutter, Government |
@@ -107,21 +107,18 @@
 
 ### 📊 GitHub Stats
 
-<!-- Animated Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdelMostafa098&show_icons=true&theme=radical&border_color=f75c7e&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adelmostafa31&show_icons=true&theme=radical&border_color=f75c7e&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdelMostafa098&layout=compact&theme=radical&border_color=f75c7e&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adelmostafa31&layout=compact&theme=radical&border_color=f75c7e&hide_border=false" height="180"/>
 </p>
 
-<!-- Animated Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdelMostafa098&theme=radical&border=f75c7e&ring=f75c7e&fire=f75c7e&currStreakLabel=f75c7e" />
+  <img src="https://streak-stats.demolab.com?user=Adelmostafa31&theme=radical&border=f75c7e&ring=f75c7e&fire=f75c7e&currStreakLabel=f75c7e" />
 </p>
 
-<!-- Animated Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdelMostafa098/AdelMostafa098/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Adelmostafa31/Adelmostafa31/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
