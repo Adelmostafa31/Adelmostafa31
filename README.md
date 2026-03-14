@@ -20,7 +20,6 @@
 - ⭐ **Top Rated Flutter Developer on Upwork** with a proven track record in healthcare, fintech, F&B, and government sectors
 - 🔧 Specializes in **real-time data architectures**, **offline-first solutions**, and **scalable mobile UIs**
 - 💬 Ask me about **Flutter, Dart, BLoC, Supabase, Offline-First Architecture**, or anything mobile!
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee ☕
 
 ---
 
@@ -91,11 +90,11 @@
 
 ---
 
-### 🚀 Key Projects
+### 🏢 Companies
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Colada** 🇸🇦 | Restaurant & cafe exclusive offers platform — 1,000+ active deals & cashback rewards across Riyadh | Flutter, REST APIs, Deep Links |
+| **Colada** 🇸🇦 | Restaurant & cafe exclusive offers platform — 10,000+ active deals & cashback rewards across Riyadh | Flutter, REST APIs, Deep Links |
 | **MemoryChat** 🇪🇬 | Offline-first chat & note-taking app with real-time bidirectional sync | Flutter, Drift ORM, PowerSync, Supabase |
 | **Priceless Medical** 🇦🇪 | UAE's first smart healthcare savings platform — 30+ partner clinics | Flutter, Stripe, Deep Links |
 | **Bidfood Home** 🇦🇪 | Online food & beverage delivery platform — production B2C app | Flutter, CRM Integration |
