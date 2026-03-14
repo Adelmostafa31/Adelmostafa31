@@ -10,9 +10,6 @@
   </a>
 </p>
 
-<!-- Animated coding gif -->
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
 <h3 align="left">
   Welcome to Adel Mostafa's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -38,6 +35,9 @@
   </a>
   <a href="https://www.upwork.com/freelancers/adelm18" target="_blank">
     <img src="https://img.shields.io/badge/-Upwork%20Top%20Rated-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/201222402998" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
@@ -99,7 +99,7 @@
 | **MemoryChat** 🇪🇬 | Offline-first chat & note-taking app with real-time bidirectional sync | Flutter, Drift ORM, PowerSync, Supabase |
 | **Priceless Medical** 🇦🇪 | UAE's first smart healthcare savings platform — 30+ partner clinics | Flutter, Stripe, Deep Links |
 | **Bidfood Home** 🇦🇪 | Online food & beverage delivery platform — production B2C app | Flutter, CRM Integration |
-| **Tansieq** 🇸🇦 | Drone/visual detection system for Saudi Ministry of Hajj infrastructure reporting | Flutter, Government |
+| **Tanseeq** 🇸🇦 | Drone/visual detection system for Saudi Ministry of Hajj infrastructure reporting | Flutter, Government |
 | **TopProz** 🇺🇸 | Service & project management app for the US market | Flutter, REST APIs, MVVM |
 | **T2** 🇸🇦 | AI automation chat app — voice/text commands trigger AI task management via N8N | Flutter, N8N, AI Agents |
 
