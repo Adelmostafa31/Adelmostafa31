@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-- 🏢 **Flutter Developer | Mobile Software Engineer** with 3+ years of hands-on experience
+- 🏢 **Flutter Developer | Mobile Software Engineer** with 4+ years of hands-on experience
 - 📱 Building cross-platform iOS & Android apps for clients across **Egypt, UAE, Saudi Arabia, and the USA**
 - ⭐ **Top Rated Flutter Developer on Upwork** with a proven track record in healthcare, fintech, F&B, and government sectors
 - 🔧 Specializes in **real-time data architectures**, **offline-first solutions**, and **scalable mobile UIs**
@@ -94,7 +94,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Colada** 🇸🇦 | Restaurant & cafe exclusive offers platform — 10,000+ active deals & cashback rewards across Riyadh | Flutter, REST APIs, Deep Links |
+| **Colada** 🇸🇦 | Restaurant & cafe exclusive offers platform — 50,000+ active users rewards across Riyadh | Flutter, REST APIs, Deep Links |
 | **MemoryChat** 🇪🇬 | Offline-first chat & note-taking app with real-time bidirectional sync | Flutter, Drift ORM, PowerSync, Supabase |
 | **Priceless Medical** 🇦🇪 | UAE's first smart healthcare savings platform — 30+ partner clinics | Flutter, Stripe, Deep Links |
 | **Bidfood Home** 🇦🇪 | Online food & beverage delivery platform — production B2C app | Flutter, CRM Integration |
