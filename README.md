@@ -26,18 +26,18 @@
 ### 🌍 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/adel-mostafa-766296234/" target="_blank">
-    <img src="https://img.shields.io/badge/-Adel%20Mostafa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/adel-mostafa-766296234/" target="_blank">
+  <img src="https://img.shields.io/badge/Adel%20Mostafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="mailto:adelmostafamohamed12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.upwork.com/freelancers/adelm18" target="_blank">
     <img src="https://img.shields.io/badge/-Upwork%20Top%20Rated-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
-  <a href="https://wa.me/201222402998" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+<a href="https://adel-portfolio-three.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" />
+</a>
 </p>
 
 ---
@@ -80,47 +80,7 @@
 
 ![Stripe](https://img.shields.io/badge/-Stripe-05122A?style=flat&logo=stripe&logoColor=635BFF)&nbsp;
 
-**🛠 Tools & Others**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql&logoColor=E10098)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=0052CC)&nbsp;
-
----
-
-### 🏢 Companies
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Colada** 🇸🇦 | Restaurant & cafe exclusive offers platform — 50,000+ active users rewards across Riyadh | Flutter, REST APIs, Deep Links |
-| **MemoryChat** 🇪🇬 | Offline-first chat & note-taking app with real-time bidirectional sync | Flutter, Drift ORM, PowerSync, Supabase |
-| **Priceless Medical** 🇦🇪 | UAE's first smart healthcare savings platform — 30+ partner clinics | Flutter, Stripe, Deep Links |
-| **Bidfood Home** 🇦🇪 | Online food & beverage delivery platform — production B2C app | Flutter, CRM Integration |
-| **Tanseeq** 🇸🇦 | Drone/visual detection system for Saudi Ministry of Hajj infrastructure reporting | Flutter, Government |
-| **TopProz** 🇺🇸 | Service & project management app for the US market | Flutter, REST APIs, MVVM |
-| **T2** 🇸🇦 | AI automation chat app — voice/text commands trigger AI task management via N8N | Flutter, N8N, AI Agents |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adelmostafa31&show_icons=true&theme=radical&border_color=f75c7e&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adelmostafa31&layout=compact&theme=radical&border_color=f75c7e&hide_border=false" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adelmostafa31&theme=radical&border=f75c7e&ring=f75c7e&fire=f75c7e&currStreakLabel=f75c7e" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adelmostafa31/Adelmostafa31/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ### 🎓 Education & Certifications
 
