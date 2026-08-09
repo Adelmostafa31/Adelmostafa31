@@ -42,7 +42,7 @@
 
 ---
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="Adel Mostafa - Software Engineer" width="100%">
+  <img src="./assets/profile-banner.jpg" alt="Adel Mostafa - Software Engineer" width="100%">
 </p>
 ---
 
