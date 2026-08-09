@@ -47,18 +47,18 @@
 
 ### &nbsp;Tech Stack
 
-** Mobile Development**
+**Mobile Development**
 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=54C5F8)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)&nbsp;
 
-** State Management & Architecture**
+**State Management & Architecture**
 
 ![BLoC](https://img.shields.io/badge/-BLoC-05122A?style=flat&logo=flutter&logoColor=54C5F8)&nbsp;
 ![Riverpod](https://img.shields.io/badge/-Riverpod-05122A?style=flat&logo=flutter&logoColor=54C5F8)&nbsp;
 ![MVVM](https://img.shields.io/badge/-MVVM-05122A?style=flat)&nbsp;
 
-** Backend & Databases**
+**Backend & Databases**
 
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase&logoColor=3ECF8E)&nbsp;
@@ -66,7 +66,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
 
-** DevOps & CI/CD**
+**DevOps & CI/CD**
 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions&logoColor=2088FF)&nbsp;
 ![Codemagic](https://img.shields.io/badge/-Codemagic-05122A?style=flat&logo=codemagic&logoColor=F45E3F)&nbsp;
@@ -74,12 +74,12 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-** AI & Automation**
+**AI & Automation**
 
 ![N8N](https://img.shields.io/badge/-N8N-05122A?style=flat&logo=n8n&logoColor=EA4B71)&nbsp;
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-05122A?style=flat)&nbsp;
 
-** Payments & Integrations**
+**Payments & Integrations**
 
 ![Stripe](https://img.shields.io/badge/-Stripe-05122A?style=flat&logo=stripe&logoColor=635BFF)&nbsp;
 
