@@ -15,15 +15,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-- 🏢 **Flutter Developer | Mobile Software Engineer** with 4+ years of hands-on experience
-- 📱 Building cross-platform iOS & Android apps for clients across **Egypt, UAE, Saudi Arabia, and the USA**
-- ⭐ **Top Rated Flutter Developer on Upwork** with a proven track record in healthcare, fintech, F&B, and government sectors
-- 🔧 Specializes in **real-time data architectures**, **offline-first solutions**, and **scalable mobile UIs**
-- 💬 Ask me about **Flutter, Dart, BLoC, Supabase, Offline-First Architecture**, or anything mobile!
+- **Flutter Developer | Mobile Software Engineer** with 4+ years of hands-on experience
+- Building cross-platform iOS & Android apps for clients across **Egypt, UAE, Saudi Arabia, and the USA**
+- **Top Rated Flutter Developer on Upwork** with a proven track record in healthcare, fintech, F&B, and government sectors
+- Specializes in **real-time data architectures**, **offline-first solutions**, and **scalable mobile UIs**
+- Ask me about **Flutter, Dart, BLoC, Supabase, Offline-First Architecture**, or anything mobile!
 
 ---
 
-### 🌍 Connect with Me
+### Connect with Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/adel-mostafa-766296234/" target="_blank">
@@ -42,24 +42,23 @@
 
 ---
 <p align="center">
-  <img src="./assets/profile-banner.jpg" alt="Adel Mostafa - Software Engineer" width="100%">
+  <img src="profile-banner.jpg" alt="Adel Mostafa - Software Engineer" width="100%">
 </p>
----
 
-### 🛠 &nbsp;Tech Stack
+### &nbsp;Tech Stack
 
-**📱 Mobile Development**
+** Mobile Development**
 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=54C5F8)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)&nbsp;
 
-**🧠 State Management & Architecture**
+** State Management & Architecture**
 
 ![BLoC](https://img.shields.io/badge/-BLoC-05122A?style=flat&logo=flutter&logoColor=54C5F8)&nbsp;
 ![Riverpod](https://img.shields.io/badge/-Riverpod-05122A?style=flat&logo=flutter&logoColor=54C5F8)&nbsp;
 ![MVVM](https://img.shields.io/badge/-MVVM-05122A?style=flat)&nbsp;
 
-**🗄️ Backend & Databases**
+** Backend & Databases**
 
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase&logoColor=3ECF8E)&nbsp;
@@ -67,7 +66,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
 
-**⚙️ DevOps & CI/CD**
+** DevOps & CI/CD**
 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions&logoColor=2088FF)&nbsp;
 ![Codemagic](https://img.shields.io/badge/-Codemagic-05122A?style=flat&logo=codemagic&logoColor=F45E3F)&nbsp;
@@ -75,28 +74,28 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-**🤖 AI & Automation**
+** AI & Automation**
 
 ![N8N](https://img.shields.io/badge/-N8N-05122A?style=flat&logo=n8n&logoColor=EA4B71)&nbsp;
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-05122A?style=flat)&nbsp;
 
-**💳 Payments & Integrations**
+** Payments & Integrations**
 
 ![Stripe](https://img.shields.io/badge/-Stripe-05122A?style=flat&logo=stripe&logoColor=635BFF)&nbsp;
 
 
 
-### 🎓 Education & Certifications
+### Education & Certifications
 
-- 🎓 **B.Sc. Computing and Data Science** — Alexandria University *(2021 – 2025)*
-- 📡 **CCNA Network Certificate** — Cisco / NTI *(2023)*
+-  **B.Sc. Computing and Data Science** — Alexandria University *(2021 – 2025)*
+-  **CCNA Network Certificate** — Cisco / NTI *(2023)*
 
 ---
 
-### 🌐 Languages
+###  Languages
 
-- 🇪🇬 Arabic — Native
-- 🇬🇧 English — Fluent
+-  Arabic — Native
+-  English — Fluent
 
 ---
 
