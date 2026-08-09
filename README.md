@@ -41,9 +41,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="profile-banner.jpg" alt="Adel Mostafa - Software Engineer" width="100%">
-</p>
 
 ### &nbsp;Tech Stack
 
